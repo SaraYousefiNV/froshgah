@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bf886aa-4fa9-41c6-9bcd-ca26b562bb7c": {
+      "ProjectGuid": "3bf886aa-4fa9-41c6-9bcd-ca26b562bb7c",
+      "DisplayName": "ConsoleStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
