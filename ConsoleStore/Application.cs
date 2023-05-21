@@ -13,8 +13,9 @@ namespace ConsoleStore
 
             while (true)
             {
-             
-                Console.WriteLine("----------Please Choose The Items:---------- \n 1:AddCategory  2:AddProduct  3:ReportCategory  4:ReportProduct  5:Exit ");
+
+                Console.WriteLine("----------Please Choose The Items:---------- ");
+                Console.WriteLine("1:AddCategory  2:AddProduct  3:ReportCategory  4:ReportProduct  5:Exit");
                 string readKeyItemType = Console.ReadKey().KeyChar.ToString();
                 Console.ReadLine();
 
