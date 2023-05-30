@@ -12,6 +12,15 @@ namespace ConsoleStore.DataModels
         public string? Name { get; set; }
         public override string ToString()
         {
+
+
+
+
+
+
+
+
+
             return $"CategoryId:{Id}  CategoryName:{Name} ";
         }
 
